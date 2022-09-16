@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["es5", "dom"],
+      "types": ["cypress", "@testing-library/cypress", "@types/node", "cypress-localstorage-commands"],
+      "resolveJsonModule": true
+    },
+    "include": ["**/*.ts"]
+    
+  }
