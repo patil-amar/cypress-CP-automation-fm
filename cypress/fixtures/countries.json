@@ -1,0 +1,17 @@
+{
+  "India":
+    {
+      "code": "IN",
+      "name": "India",
+      "currency": "INR",
+      "capital": "New Delh"
+    },
+
+    "United Kingdom": {
+      "code": "GB",
+      "name": "United Kingdom",
+      "currency": "GBP",
+      "capital": "London"
+    }
+
+}
