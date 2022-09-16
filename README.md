@@ -13,7 +13,6 @@ yarn
 ```
 
 3. Run Tests
-   3.1. run
 
 ```
 yarn ci:chrome
